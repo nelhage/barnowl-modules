@@ -1,0 +1,15 @@
+[submodule "Alias"]
+	path = Alias
+	url = git://github.com/nelhage/barnowl-alias.git
+[submodule "DevUtils"]
+	path = DevUtils
+	url = git://github.com/nelhage/barnowl-devutils.git
+[submodule "Twitter"]
+	path = Twitter
+	url = git://github.com/nelhage/barnowl-twitter.git
+[submodule "VT_ASedeno"]
+	path = VT_ASedeno
+	url = git://github.com/nelhage/barnowl-vt-asedeno.git
+[submodule "ZStatus"]
+	path = ZStatus
+	url = git://github.com/nelhage/barnowl-zstatus.git
